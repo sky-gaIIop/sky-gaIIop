@@ -1,4 +1,4 @@
-${\textsf{\color{#CBB799}⠀⠀⠀⠀ ⠀ ⠀⠀ ⠀⠀⠀⠀➢⠀My name is} }$ ${\textsf{\color{#FFFFFF}⠀⠀⠀⠀ ⠀ ⠀⠀ ⠀⠀⠀⠀𝙎𝙠𝙮 𝙂𝙖𝙡𝙡𝙤𝙥,} }$ ${\textsf{\color{#CBB799}⠀⠀⠀⠀ ⠀ ⠀⠀ ⠀⠀⠀⠀the pure white wings that fly the heavens .} }$
+${\textsf{\color{#CBB799}⠀⠀⠀⠀ ⠀ ⠀⠀ ⠀⠀⠀⠀➢⠀My name is} }$ ${\textsf{\color{#FFFFFF}𝙎𝙠𝙮 𝙂𝙖𝙡𝙡𝙤𝙥,} }$ ${\textsf{\color{#CBB799}the pure white wings that fly amongst the heavens .} }$
 
 
 
